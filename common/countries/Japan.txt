@@ -2,7 +2,7 @@
 
 graphical_culture = asiangfx
 		
-color = { 163  5  77 }
+color = { 232 221 193 }
 revolutionary_colors = { 0 5 0 }
 
 random_nation_chance = 0

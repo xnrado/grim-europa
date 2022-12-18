@@ -1,7 +1,7 @@
 #Country Name: Please see filename.
 
 graphical_culture = westerngfx
-color = { 255  69  0 }
+color = { 200 127 45 }
 
 historical_score = 3500
 revolutionary_colors = { 6  0  14 }
