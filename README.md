@@ -7,7 +7,7 @@ A graphics mod for Europa Universalis 4 by XnraD.
 <p align="center">
 <b> NOT IRONMAN COMPATIBLE </b>
 <p align="center">
-The mod was made specifically for our other mod - [Conventu Amicorum](), but you can also use it with vanilla eu4. It is also recommended to use it with [This]() collection for an even better experience.
+The mod was made specifically for our other mod - <a href="">Conventu Amicorum</a>, but you can also use it with vanilla eu4. It is also recommended to use it with <a href="">this collection</a> for an even better experience.
 <p align="center">
 This mod only changes the map and changes colors of most countries to make them more historically accurate or just to make them look better. It doesn't have GUI changes, loading screens or music.
 <p align="center">
