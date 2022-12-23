@@ -29,7 +29,6 @@ This mod only changes the map and changes colors of most countries to make them 
 <img src="https://i.imgur.com/w7TV91I.png" height=50% width=50%>
  <p align="center">
 <a href="https://github.com/xnrado/grim-europa">Grim Europa</a>
-
  <p align="center">
 <a href="https://github.com/xnrado/conventu-amicorum">Conventu Amicorum</a>
 
