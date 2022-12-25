@@ -22,8 +22,6 @@ This mod only changes the map and changes colors of most countries to make them 
 <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2895913903">Road to 1836</a>
  <p align="center">
 <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=759972622">Dark Water</a>
- <p align="center">
-<a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2895913903">Road to 1836</a>
 
 <p align="center">
 <img src="https://i.imgur.com/w7TV91I.png" height=50% width=50%>
